@@ -17,7 +17,7 @@ Understand FEA fundamentals and explore simulation techniques for mechanical sys
 ## **Computational Fluid Dynamics (CFD)**
 Dive into fluid behavior simulation using ANSYS Fluent and other tools.
 
-![Logo](assets/images/logo.jpg)
+![Logo](assets/images/prueba.jpg)
 
 ## **Aerodynamics for Vehicles**
 Analyze the aerodynamic performance of vehicles and develop optimized designs.
