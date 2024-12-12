@@ -14,8 +14,6 @@ Learn the basics of Python with applications tailored for engineering and scienc
 ## **Finite Element Analysis (FEA)**
 Understand FEA fundamentals and explore simulation techniques for mechanical systems.
 
-
-
 ## **Computational Fluid Dynamics (CFD)**
 Dive into fluid behavior simulation using ANSYS Fluent and other tools.
 
