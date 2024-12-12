@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-Hello! I am [Your Name], a passionate educator and engineer specializing in **simulation technologies**, including **Finite Element Analysis (FEA)**, **Computational Fluid Dynamics (CFD)**, and **Python programming**.
+Hello! I am Diego, a passionate educator and engineer specializing in **simulation technologies**, including **Finite Element Analysis (FEA)**, **Computational Fluid Dynamics (CFD)**, and **Python programming**.
 
 ## Professional Background
 I have a solid background in university teaching and a strong track record of multidisciplinary projects in engineering. My expertise lies in simulation-driven problem-solving, with a focus on:
