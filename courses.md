@@ -19,6 +19,23 @@ Dive into fluid behavior simulation using ANSYS Fluent and other tools.
 
 <img src="assets/images/prueba.jpg" alt="Imagen" width="200" height="100">
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed YouTube Video</title>
+</head>
+<body>
+
+<h1>Watch this amazing video!</h1>
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://www.youtube.com/watch?v=9mSB5O2gL0U)" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
+
+
 ## **Aerodynamics for Vehicles**
 Analyze the aerodynamic performance of vehicles and develop optimized designs.
 
