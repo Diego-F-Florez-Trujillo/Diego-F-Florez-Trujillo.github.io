@@ -9,3 +9,7 @@ plugins:
   - jekyll-feed # Example plugin for RSS feeds
 markdown: kramdown
 highligther: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  enable_coderay: true
