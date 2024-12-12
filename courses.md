@@ -14,10 +14,10 @@ Learn the basics of Python with applications tailored for engineering and scienc
 ## **Finite Element Analysis (FEA)**
 Understand FEA fundamentals and explore simulation techniques for mechanical systems.
 
+<img src="assets/images/prueba.jpg" alt="Imagen" width="200" height="100">
+
 ## **Computational Fluid Dynamics (CFD)**
 Dive into fluid behavior simulation using ANSYS Fluent and other tools.
-
-<img src="assets/images/prueba.jpg" alt="Imagen" width="200" height="100">
 
 <iframe width="890" height="480" src="https://www.youtube.com/embed/uGyeBgO4le0" title="Differences between VOF and Euler/Euler approach in multiphase CFD simulation with OpenFOAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
