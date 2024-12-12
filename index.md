@@ -21,3 +21,7 @@ Feel free to explore the [projects](./courses.md) section for a detailed view of
 
 ## Contact
 If you'd like to collaborate or learn more, reach out via [email](mailto:diegofreflorez@utp.edu.co) or visit my [GitHub profile](https://github.com/Diego-F-Florez-Trujillo).
+
+## About me
+
+{% include about.md %}
