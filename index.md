@@ -1,10 +1,10 @@
 ---
 layout: home
-title: "Welcome to My Site"
+title: "Homepage"
 permalink: /
 ---
 
-# Welcome to My Portfolio
+# Welcome to my Portfolio
 
 I am a university professor specializing in **Simulation, Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA)**, and **Python programming**. This website showcases my professional achievements, courses, and ongoing projects.
 
@@ -20,7 +20,7 @@ Here are some of the courses I currently teach:
 Feel free to explore the [projects](./courses.md) section for a detailed view of my work.
 
 ## Contact
-If you'd like to collaborate or learn more, reach out via [email](mailto:diegofreflorez@utp.edu.co) or visit my [GitHub profile](https://github.com/Diego-F-Florez-Trujillo).
+If you'd like to collaborate or learn more, reach out via [email](mailto:https://mail.google.com/mail/u/0/#inbox?compose=new&to=diegofreflorez@utp.edu.co) or visit my [GitHub profile](https://github.com/Diego-F-Florez-Trujillo).
 
 ## About me
 
