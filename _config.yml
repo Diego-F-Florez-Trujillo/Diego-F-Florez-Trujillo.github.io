@@ -1,7 +1,11 @@
 title: "Cursos"
 description: "A personal website to showcase my projects and interests."
+author: "Diego F. Florez Trujillo"
+email: "diegofreflorez@utp.edu.co"
 baseurl: "" # Leave this blank unless your site is in a subdirectory
 url: "https://cursos-de-extension.github.io" # Replace 'username' with your GitHub username
 theme: minima # Default GitHub Pages theme
 plugins:
   - jekyll-feed # Example plugin for RSS feeds
+markdown: kramdown
+highligther: rouge
