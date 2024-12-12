@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: Cursos
-description: Bookmark this to keep an eye on my project updates!
+title: "Cursos"
+description: "A personal website to showcase my projects and interests."
+baseurl: "" # Leave this blank unless your site is in a subdirectory
+url: "https://cursos-de-extension.github.io" # Replace 'username' with your GitHub username
+theme: minima # Default GitHub Pages theme
+plugins:
+  - jekyll-feed # Example plugin for RSS feeds
