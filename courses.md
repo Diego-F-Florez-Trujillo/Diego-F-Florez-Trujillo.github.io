@@ -19,7 +19,7 @@ Understand FEA fundamentals and explore simulation techniques for mechanical sys
 ## **Computational Fluid Dynamics (CFD)**
 Dive into fluid behavior simulation using ANSYS Fluent and other tools.
 
-<iframe width="890" height="480" src="https://www.youtube.com/embed/uGyeBgO4le0" title="Differences between VOF and Euler/Euler approach in multiphase CFD simulation with OpenFOAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="200" height="100" src="https://www.youtube.com/embed/uGyeBgO4le0" title="Differences between VOF and Euler/Euler approach in multiphase CFD simulation with OpenFOAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **Aerodynamics for Vehicles**
 Analyze the aerodynamic performance of vehicles and develop optimized designs.
