@@ -24,4 +24,4 @@ If you'd like to collaborate or learn more, reach out via [email](mailto:diegofr
 
 ## About me
 
-{% include about.md %}
+Learn more about me [here](about.md).
