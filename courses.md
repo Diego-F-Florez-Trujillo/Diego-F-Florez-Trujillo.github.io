@@ -19,7 +19,7 @@ Dive into fluid behavior simulation using ANSYS Fluent and other tools.
 
 <img src="assets/images/prueba.jpg" alt="Imagen" width="200" height="100">
 
-<iframe width="560" height="315" src="(https://youtu.be/uGyeBgO4le0?t=23)" frameborder="0" allowfullscreen></iframe>
+<iframe width="890" height="480" src="https://www.youtube.com/embed/uGyeBgO4le0" title="Differences between VOF and Euler/Euler approach in multiphase CFD simulation with OpenFOAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **Aerodynamics for Vehicles**
 Analyze the aerodynamic performance of vehicles and develop optimized designs.
