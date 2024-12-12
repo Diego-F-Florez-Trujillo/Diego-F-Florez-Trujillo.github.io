@@ -30,8 +30,9 @@ In addition to engineering simulations, I am passionate about:
 ## Contact Me
 Feel free to reach out to discuss potential collaborations or opportunities! You can contact me via:
 
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [GitHub](https://github.com/yourusername)
+- [Email](https://mail.google.com/mail/u/0/#inbox?compose=new&to=diegofreflorez@utp.edu.co)
+- [ResearchGate](https://www.researchgate.net/profile/Diego-Florez-Trujillo?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
+- [GitHub](https://github.com/Diego-F-Florez-Trujillo)
+
 
 Thank you for visiting my site!
