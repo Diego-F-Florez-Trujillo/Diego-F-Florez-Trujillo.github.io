@@ -20,7 +20,7 @@ Here are some of the courses I currently teach:
 Feel free to explore the [projects](./courses.md) section for a detailed view of my work.
 
 ## Contact
-If you'd like to collaborate or learn more, reach out via [email](mailto:https://mail.google.com/mail/u/0/#inbox?compose=new&to=diegofreflorez@utp.edu.co) or visit my [GitHub profile](https://github.com/Diego-F-Florez-Trujillo).
+If you'd like to collaborate or learn more, reach out via [email](https://mail.google.com/mail/u/0/#inbox?compose=new&to=diegofreflorez@utp.edu.co) or visit my [GitHub profile](https://github.com/Diego-F-Florez-Trujillo).
 
 ## About me
 
