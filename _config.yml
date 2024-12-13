@@ -2,9 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 title: "Actividades de extensión" # the website title (if blank, full name will be used instead)
-author:
-  name: Diego F. Florez Trujillo
-  email: diegofreflorez@utp.edu.co
+
+author: "Diego F. Florez Trujillo"
+email: "diegofreflorez@utp.edu.co"
+url: "https://Diego-F-Florez-Trujillo.github.io" # Replace 'username' with your GitHub username
+baseurl: "/university" # Leave this blank unless your site is in a subdirectory
 
 description: >
   Write an awesome description for your new site here. You can edit this line
