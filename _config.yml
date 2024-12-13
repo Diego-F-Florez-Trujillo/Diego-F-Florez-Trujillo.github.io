@@ -1,7 +1,12 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: blank # the website title (if blank, full name will be used instead)
+title: "Actividades de extensión" # the website title (if blank, full name will be used instead)
+theme: jekyll-themes-minimal # Default GitHub Pages theme
+logo: /assets/images/prueba.jpg
+description: "A personal website to showcase my projects and interests."
+show_downloads: true
+
 first_name: Diego
 middle_name: F.
 last_name: Florez Trujillo
