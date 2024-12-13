@@ -17,4 +17,4 @@ Here are some of the courses I currently teach:
 - **Aerodynamics for Vehicles**: Principles and simulation techniques for automotive aerodynamics.
 - **Engineering Simulations with Python**: Python-based approaches for solving engineering problems.
 
-Feel free to explore the [projects](./courses.md) section for a detailed view of my work.
+
