@@ -1,20 +1,20 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+
+theme: minima
+
 title: "Actividades de extensión" # the website title (if blank, full name will be used instead)
 
 author: "Diego F. Florez Trujillo"
 email: "diegofreflorez@utp.edu.co"
-url: "https://Diego-F-Florez-Trujillo.github.io" # Replace 'username' with your GitHub username
-baseurl: "/university" # Leave this blank unless your site is in a subdirectory
+baseurl: "" # Leave this blank unless your site is in a subdirectory
 
 description: >
   Write an awesome description for your new site here. You can edit this line
   in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
   
-theme: minima
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -22,7 +22,7 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  _pages/about.md
+  -_pages/about.md
 
 show_excerpts: true
 
