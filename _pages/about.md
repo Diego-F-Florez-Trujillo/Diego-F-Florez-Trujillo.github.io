@@ -1,3 +1,9 @@
+
+---
+layout: page
+title: About
+permalink: /about/
+---
 # About Me
 
 Hello! I am Diego, a passionate educator and engineer specializing in **simulation technologies**, including **Finite Element Analysis (FEA)**, **Computational Fluid Dynamics (CFD)**, and **Python programming**.
