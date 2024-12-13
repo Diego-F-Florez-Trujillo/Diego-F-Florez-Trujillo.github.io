@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 title: "Actividades de extension" # the website title (if blank, full name will be used instead)
-theme: jekyll-themes-minimal # Default GitHub Pages theme
+theme: minimal # Default GitHub Pages theme
 logo: /assets/images/prueba.jpg
 description: "A personal website to showcase my projects and interests."
 show_downloads: true
