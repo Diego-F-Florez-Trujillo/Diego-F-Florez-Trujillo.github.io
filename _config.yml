@@ -19,6 +19,12 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+nav_links:
+  - title: "Inicio"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
